@@ -36,6 +36,8 @@ A modern full-stack web application to shorten long URLs and track analytics, se
 ---
 
 ## 📁 Project Structure
+
+```
 url-shortener-analytics/
 ├── url-shortener-sb/           ← Spring Boot backend
 │   ├── src/
@@ -45,3 +47,4 @@ url-shortener-analytics/
 │   ├── src/
 │   └── package.json
 └── README.md
+```
